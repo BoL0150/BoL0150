@@ -1,5 +1,5 @@
 # 👋 Hello! I'm Bo Li.
-
+During my undergraduate studies, I focus on Operating System and Database Management System. As a graduate student, my research focuses on MRI super-resolution and AI Infra. Looking ahead, I aspire to become a developer specializing in machine learning systems.
 - 🎓 I am currently a master's student at Beijing Institute of Technology.
 - 🤖 I am interested in Operating System, AI Infra, deep learning frameworks, and LLM inference.
 - 🛠 My skills: C++/Linux/Vim (proficient), Python/CUDA/SQL (basic).
